@@ -1,0 +1,10 @@
+10 9 2 23 34 5 431 1 322 5 pop
+12 43 453 23 3 54 671 23 54 65 ascending pop
+min
+1 98 3 10 43 54 11 89 67 54 27 descending pop
+delayPop(1000)
+32 43 19 46 734 5 max pop
+pop
+43 21 54 83 0 34 5 min pop
+4 9 1 34 90 84 29 8 30 ascending delayPop(500)
+pop
